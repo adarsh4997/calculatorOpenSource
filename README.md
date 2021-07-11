@@ -1,2 +1,2 @@
-# calculatorOpenSource
-This is a sample calculator for Github tutorial
+# Calculator
+This is a sample calculator repository for Github tutorial
